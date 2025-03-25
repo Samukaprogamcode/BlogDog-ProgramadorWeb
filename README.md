@@ -1,4 +1,4 @@
-# BLOG SOBRE CÃES 🐶
+# BLOG SOBRE CÃES PARA COMPUTADOR (1920X1080) 🐶
 
 > Este repositório foi criado como parte de um projeto de aula, **sem fins lucrativos**. O objetivo é aplicar e melhorar as habilidades adquiridas durante o curso em [CSS em aplicações para FRONT-END].
 
